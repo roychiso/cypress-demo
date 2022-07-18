@@ -1,0 +1,12 @@
+# MacOS <3
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Cypress
+/cypress/videos
+/cypress/results
+/cypress/screenshots
+
+node_modules
