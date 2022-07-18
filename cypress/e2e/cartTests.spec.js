@@ -11,7 +11,7 @@ describe('Product Details Page tests', () => {
     navigateTo.clickCartOption()
   })
 
-  it.only('Validate Product is added into the car', () => {
+  it('Validate Product is added into the car', () => {
     onCartPage.validateListSize(1)
   })
 })
