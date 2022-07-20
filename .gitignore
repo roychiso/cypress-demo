@@ -9,7 +9,9 @@
 /cypress/results
 /cypress/screenshots
 
+# Node
 node_modules
 
+# Allure report
 allure-results
 allure-report
